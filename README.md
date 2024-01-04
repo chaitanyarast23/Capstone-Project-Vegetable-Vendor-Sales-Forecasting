@@ -18,11 +18,17 @@ Conclusion: Opportunities for optimization through tailored strategies and conti
 # Scope of the Project:
 
 Data analysis
+
 Optimal quantity determination
+
 Customer attraction strategy
+
 Inventory management
+
 Recommendations for vegetable variety
+
 Linear regression model evaluation and refinement
+
 Implementation plan
 
 # Conclusion:
