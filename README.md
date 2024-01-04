@@ -5,13 +5,18 @@ This capstone project addresses challenges faced by a vegetable vendor, "Mr. Rah
 # Key Components:
 Executive Summary: Comprehensive analysis encapsulating challenges, data collection, and strategic recommendations.
 Data Collection and Methodology: Detailed process of daily visits, data recording, and tools used (Excel, Python).
-Analysis Process/Method: Thorough data cleaning, exploratory data analysis, and application of a linear regression model.
-Results and Findings: Unveiling sales patterns, profitability insights, and recommendations for improvement.
-Interpretation of Results and Recommendations: Insights into customer behavior, profitability, and actionable recommendations for "Mr. Rahul."
-Conclusion: Opportunities for optimization through tailored strategies and continuous monitoring.
-Scope of the Project:
 
-# Data analysis
+Analysis Process/Method: Thorough data cleaning, exploratory data analysis, and application of a linear regression model.
+
+Results and Findings: Unveiling sales patterns, profitability insights, and recommendations for improvement.
+
+Interpretation of Results and Recommendations: Insights into customer behavior, profitability, and actionable recommendations for "Mr. Rahul."
+
+Conclusion: Opportunities for optimization through tailored strategies and continuous monitoring.
+
+# Scope of the Project:
+
+Data analysis
 Optimal quantity determination
 Customer attraction strategy
 Inventory management
