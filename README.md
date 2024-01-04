@@ -4,6 +4,7 @@ This capstone project addresses challenges faced by a vegetable vendor, "Mr. Rah
 
 # Key Components:
 Executive Summary: Comprehensive analysis encapsulating challenges, data collection, and strategic recommendations.
+
 Data Collection and Methodology: Detailed process of daily visits, data recording, and tools used (Excel, Python).
 
 Analysis Process/Method: Thorough data cleaning, exploratory data analysis, and application of a linear regression model.
